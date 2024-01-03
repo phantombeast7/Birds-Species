@@ -37,7 +37,7 @@ jobs:
         # Replace 'your_image.jpg' with the actual path to the image you want to upload
         curl -X POST -F "file=@your_image.jpg" http://localhost:5000/upload
 
-    - name: Run predictions with ensemble.h5 model
+    - name: Run predictions with ensemble_4model_final.h5 model
       run: |
         python predict.py  # Replace with the command to run predictions
 
