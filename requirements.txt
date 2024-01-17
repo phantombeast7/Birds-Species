@@ -36,7 +36,7 @@ Markdown==3.3.3
 MarkupSafe==2.0.1
 ml-dtypes==0.2.0
 multidict==5.2.0
-numpy==1.22.2
+numpy==1.21.2
 oauthlib==3.2.2
 openai==0.28.0
 opencv-python==4.5.3.56
